@@ -4,6 +4,20 @@
 Olá me chamo Gabriel Correa, tenho 18 anos e sou apaixonado por tecnologia e sempre gostei de explorar o mundo da programação e da análise de dados. Gosto de entender como as coisas funcionam por trás das telas e criar soluções que possam facilitar a vida das pessoas. Sempre estou buscando aprender mais e aprimorar minhas habilidades, porque acredito que a tecnologia tem o poder de transformar o mundo.
 
 ---
+### 📞 Conecte-se comigo!
+
+
+<a href="https://www.linkedin.com/in/gabriel-correa-camargo-957a43282/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="gabrielcc9090@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+</a>
+<a href="https://www.instagram.com/correa_9090/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+---
 
 ### 🤖 Linguagens e Tecnologias
 
