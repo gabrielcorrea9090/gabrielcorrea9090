@@ -79,6 +79,7 @@ Olá me chamo Gabriel Correa, tenho 18 anos e sou apaixonado por tecnologia e se
     height="200" 
     width="400"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcorrea9090&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcorrea9090&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=6&exclude_repo=github-readme-stats"
 />
+
 
