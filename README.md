@@ -1,7 +1,8 @@
 # 👨‍💻 Gabriel Correa Camargo
 **`Desenvolvedor FullStack`**
 
-Olá me chamo Gabriel Correa, tenho 18 anos e sou apaixonado por tecnologia e sempre gostei de explorar o mundo da programação e da análise de dados. Gosto de entender como as coisas funcionam por trás das telas e criar soluções que possam facilitar a vida das pessoas. Sempre estou buscando aprender mais e aprimorar minhas habilidades, porque acredito que a tecnologia tem o poder de transformar o mundo.
+
+Sou Gabriel Correa, desenvolvedor apaixonado por tecnologia, com foco em programação e análise de dados. Tenho 18 anos e busco constantemente aprofundar meus conhecimentos para compreender os processos que acontecem por trás das soluções digitais. Meu objetivo é criar aplicações eficientes e inovadoras que promovam melhorias reais na vida das pessoas. Acredito no potencial transformador da tecnologia e na importância do aprendizado contínuo para contribuir de forma significativa no mercado.
 
 ---
 
