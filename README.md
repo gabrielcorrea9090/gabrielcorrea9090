@@ -85,8 +85,8 @@ Sou Gabriel Correa, desenvolvedor apaixonado por tecnologia, com foco em program
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="250" 
-    width="450"
+    height="200" 
+    width="400"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcorrea9090&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=6&exclude_repo=github-readme-stats"
 />
