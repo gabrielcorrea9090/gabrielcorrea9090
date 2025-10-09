@@ -1,4 +1,4 @@
-# 👨‍💻 Gabriel Correa Camargo
+# Gabriel Correa Camargo
 **`Desenvolvedor FullStack`**
 
 
