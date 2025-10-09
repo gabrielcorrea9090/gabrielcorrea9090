@@ -48,10 +48,15 @@ Atualmente, venho me dedicando ao **desenvolvimento Full Stack** e à **análise
 
 ### 🌐 Onde me encontrar  
 <p align="left">
-  <a href="www.linkedin.com/in/gabriel-correa-camargo-957a43282" target="_blank">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/gabriel-correa-camargo-957a43282" target="_blank">
     <img align="center" alt="LinkedIn" title="LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:gabrielcc9090@gmail.com">
-    <img align="center" alt="E-mail" title="E-mail" width="90px" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  
+  <!-- E-mail -->
+  <span title="Clique para ver meu e-mail" style="cursor:pointer;">
+    <img align="center" alt="E-mail" title="Clique para ver meu e-mail" width="90px" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <br/>
+    <small>gabrielcc9090@gmail.com</small>
+  </span>
 </p>
