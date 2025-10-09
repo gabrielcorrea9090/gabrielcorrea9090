@@ -48,7 +48,7 @@ Atualmente, venho me dedicando ao **desenvolvimento Full Stack** e à **análise
 
 ### 🌐 Onde me encontrar  
 <p align="left">
-  <a href="https://www.linkedin.com/in/gabriel-corrêa-camargo" target="_blank">
+  <a href="www.linkedin.com/in/gabriel-correa-camargo-957a43282" target="_blank">
     <img align="center" alt="LinkedIn" title="LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:gabrielcc9090@gmail.com">
