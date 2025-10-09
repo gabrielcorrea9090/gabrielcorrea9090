@@ -2,11 +2,11 @@
 **`Desenvolvedor FullStack`**
 
 
-Sou Gabriel Correa, desenvolvedor apaixonado por tecnologia, com foco em programação e análise de dados. Tenho 18 anos e busco constantemente aprofundar meus conhecimentos para compreender os processos que acontecem por trás das soluções digitais. Meu objetivo é criar aplicações eficientes e inovadoras que promovam melhorias reais na vida das pessoas. Acredito no potencial transformador da tecnologia e na importância do aprendizado contínuo para contribuir de forma significativa no mercado.
+Sou o Gabriel Corrêa, tenho 18 anos e sou apaixonado por tecnologia. Gosto de entender como as coisas funcionam por trás das telas e transformar ideias em soluções que realmente façam diferença. Tenho me dedicado à programação e à análise de dados, sempre buscando aprender mais e evoluir a cada projeto. Acredito que a tecnologia tem um poder real de melhorar a vida das pessoas — e é isso que me motiva a continuar criando e aprendendo todos os dias.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
