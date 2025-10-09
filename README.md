@@ -54,9 +54,7 @@ Atualmente, venho me dedicando ao **desenvolvimento Full Stack** e à **análise
   </a>
   
   <!-- E-mail -->
-  <span title="Clique para ver meu e-mail" style="cursor:pointer;">
-    <img align="center" alt="E-mail" title="Clique para ver meu e-mail" width="90px" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    <br/>
-    <small>gabrielcc9090@gmail.com</small>
-  </span>
+  <a href="mailto:gabrielcc9090@gmail.com">
+    <img align="center" alt="E-mail" title="Enviar e-mail" width="90px" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
