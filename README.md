@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Gabriel Corrêa Camargo</h1>
+<h1 align="center">👋 Olá, eu sou o Gabriel Correa Camargo</h1>
 
 <p align="center">
   <strong>💻 Desenvolvedor Full Stack | Análise de Dados</strong><br/>
@@ -11,8 +11,7 @@
 
 Sou o **Gabriel Corrêa**, tenho **18 anos** e sou apaixonado por tecnologia.  
 Gosto de entender o que acontece por trás das telas e transformar ideias em soluções que realmente façam diferença.  
-Atualmente, venho me dedicando ao **desenvolvimento Full Stack** e à **análise de dados**, sempre buscando aprender algo novo a cada projeto.  
-Acredito no poder da tecnologia para melhorar a vida das pessoas — e é isso que me motiva a continuar evoluindo todos os dias.  
+Atualmente, venho me dedicando ao **desenvolvimento Full Stack** e à **análise de dados**, sempre buscando aprender algo novo a cada projeto. Acredito no poder da tecnologia para melhorar a vida das pessoas — e é isso que me motiva a continuar evoluindo todos os dias.  
 
 ---
 
