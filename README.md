@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Gabriel Correa Camargo</h1>
+<h1 align="center"> Olá, eu sou o Gabriel Correa Camargo</h1>
 
 <p align="center">
   <strong>💻 Desenvolvedor Full Stack | Análise de Dados</strong><br/>
@@ -15,31 +15,32 @@ Atualmente, venho me dedicando ao **desenvolvimento Full Stack** e à **análise
 
 ---
 
-### 🧠 Linguagens e Tecnologias  
+### 🛠️ Tecnologias & Ferramentas
 
+#### **Linguagens de Programação**
 <p align="left">
-  <!-- Linguagens de programação -->
-  <img title="Python" alt="Python" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img title="JavaScript" alt="JavaScript" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img title="Java" alt="Java" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img title="PHP" alt="PHP" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-  <img title="R" alt="R" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
-  <img title="SQL" alt="SQL" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-  
-  <!-- Frameworks e Bibliotecas -->
-  <img title="React" alt="React" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img title="Pandas" alt="Pandas" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
-  
-  <!-- Ferramentas e Plataformas -->
-  <img title="GitHub" alt="GitHub" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-  
-  <!-- Machine Learning / AI -->
-  <img title="Machine Learning" alt="ML" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-  <img title="Deep Learning" alt="DL" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,php,r" title="Python, JavaScript, Java, PHP, R" />
 </p>
 
+#### **Frontend & Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" title="React, HTML5, CSS3, Bootstrap" />
+</p>
 
+#### **Backend & Bancos de Dados**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,postgresql" title="Node.js, MySQL, MongoDB, PostgreSQL" />
+</p>
 
+#### **Ferramentas & Plataformas**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" title="Git, GitHub, VS Code, Figma, Linux" />
+</p>
+
+#### **Data Science & Machine Learning**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" title="PyTorch, TensorFlow" />
+</p>
 
 ---
 
@@ -47,21 +48,24 @@ Atualmente, venho me dedicando ao **desenvolvimento Full Stack** e à **análise
 
 <p align="center">
   <img 
-      alt="Estatísticas de Gabriel"
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=gabrielcorrea9090&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-streak-stats.herokuapp.com?user=gabrielcorrea9090&theme=dark&hide_border=true&locale=pt-br" 
+    alt="GitHub Streak" 
+    height="180em"
   />
+  
+  <br><br>
+  
   <img 
-      alt="Linguagens mais usadas"
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcorrea9090&layout=compact&theme=tokyonight&custom_title=Principais%20Tecnologias&langs_count=6"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielcorrea9090&theme=github_dark" 
+    alt="Resumo do perfil"
+    width="100%"
   />
 </p>
 
 ---
 
 ### 🌐 Onde me encontrar  
-<p align="left">
+<p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/gabriel-correa-camargo-957a43282" target="_blank">
     <img align="center" alt="LinkedIn" title="LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -70,5 +74,10 @@ Atualmente, venho me dedicando ao **desenvolvimento Full Stack** e à **análise
   <!-- E-mail -->
   <a href="mailto:gabrielcc9090@gmail.com">
     <img align="center" alt="E-mail" title="Enviar e-mail" width="90px" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/gabrielcorrea9090" target="_blank">
+    <img align="center" alt="GitHub" title="GitHub" width="100px" src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
