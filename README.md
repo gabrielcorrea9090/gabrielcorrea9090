@@ -1,40 +1,38 @@
-<h1 align="center"> Olá, eu sou o Gabriel Correa Camargo</h1>
+<h1 align="center">Gabriel Correa Camargo</h1>
 
 <p align="center">
-  <strong>💻 Desenvolvedor Full Stack | Análise de Dados</strong><br/>
-  <em>Transformando ideias em soluções que geram impacto real.</em>
+  <strong>Data Science Developer</strong><br/>
 </p>
 
----
 
 ### Sobre mim
 
-Sou o **Gabriel Corrêa**, tenho **18 anos** e sou apaixonado por tecnologia.  
-Gosto de entender o que acontece por trás das telas e transformar ideias em soluções que realmente façam diferença.  
-Atualmente, venho me dedicando ao **desenvolvimento Full Stack** e à **análise de dados**, sempre buscando aprender algo novo a cada projeto. Acredito no poder da tecnologia para melhorar a vida das pessoas — e é isso que me motiva a continuar evoluindo todos os dias.  
+Como Cientista de Dados, meu foco é transformar dados em insights acionáveis ​​e impulsionar a tomada de decisões estratégicas por meio do desenvolvimento de modelos preditivos de aprendizado de máquina e análise exploratória de dados. Com mais de 5 anos de sólida experiência na área de dados, utilizando linguagens como Python e SQL, minha expertise inclui o gerenciamento de conjuntos de dados complexos e todo o processo de ETL, a criação de dashboards e visualizações de dados com bibliotecas e ferramentas como o Power BI, e o desenvolvimento de modelos estatísticos.
+
+Possuo um perfil proativo, com excelentes habilidades de comunicação e comprovada capacidade de colaboração eficaz em equipes multidisciplinares para alcançar objetivos comuns. Busco constantemente aprimorar meus conhecimentos e aplicar minhas habilidades analíticas para impulsionar a inovação e o crescimento no campo da Inteligência Artificial.  
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 #### **Linguagens de Programação**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,php,r" title="Python, JavaScript, Java, PHP, R" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,r" title="Python, JavaScript, Java, R" />
 </p>
 
 #### **Frontend & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" title="React, HTML5, CSS3, Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,html,css" title="React, HTML5, CSS3" />
 </p>
 
 #### **Backend & Bancos de Dados**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,postgresql" title="Node.js, MySQL, MongoDB, PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" title="Node.js, MySQL, MongoDB" />
 </p>
 
 #### **Ferramentas & Plataformas**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" title="Git, GitHub, VS Code, Figma, Linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" title="Git, GitHub, VS Code, Figma" />
 </p>
 
 #### **Data Science & Machine Learning**
@@ -44,7 +42,7 @@ Atualmente, venho me dedicando ao **desenvolvimento Full Stack** e à **análise
 
 ---
 
-### 📊 Estatísticas do GitHub  
+### Estatísticas 
 
 <p align="center">
   <img 
@@ -64,7 +62,7 @@ Atualmente, venho me dedicando ao **desenvolvimento Full Stack** e à **análise
 
 ---
 
-### 🌐 Onde me encontrar  
+### Onde me encontrar  
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/gabriel-correa-camargo-957a43282" target="_blank">
