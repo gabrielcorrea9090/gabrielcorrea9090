@@ -14,35 +14,6 @@ Possuo um perfil proativo, com excelentes habilidades de comunicação e comprov
 
 ---
 
-### Tecnologias & Ferramentas
-
-#### **Linguagens de Programação**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,r" title="Python, JavaScript, Java, R" />
-</p>
-
-#### **Frontend & Frameworks**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css" title="React, HTML5, CSS3" />
-</p>
-
-#### **Backend & Bancos de Dados**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" title="Node.js, MySQL, MongoDB" />
-</p>
-
-#### **Ferramentas & Plataformas**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" title="Git, GitHub, VS Code, Figma" />
-</p>
-
-#### **Data Science & Machine Learning**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" title="PyTorch, TensorFlow" />
-</p>
-
----
-
 ### Estatísticas 
 
 <p align="center">
